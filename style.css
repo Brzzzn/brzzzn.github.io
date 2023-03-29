@@ -67,3 +67,14 @@ body {
     background-color: var(--accentColor);
     color: var(--bgColor);
 }
+
+#notice {
+    color: var(--accentColor);
+    font-size: 0.8rem;
+    display: block;
+    margin-top: 10px;
+    text-align: center;
+    color: white;
+    font-family: "Quicksand";
+    text-decoration: none;
+}
